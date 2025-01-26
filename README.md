@@ -39,3 +39,8 @@ Git push origin main
 Git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestro depositorio en la nube a nuestro proyecto local
+
+```
+Git clon url
+```
+- Sirve para poder descargar algun proyecto que este publico
